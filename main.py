@@ -15,7 +15,8 @@ from keyword_extractor import FrequentKeywords
 from visualiser import Visualiser
 
 # ── Constants ─────────────────────────────────────────────────────────────────
-NEWS_API_KEY = "6fbcc105837b458fb866d265fba9d767"
+#Insert NewsAPI key here
+#NEWS_API_KEY = 
 
 
 # ══════════════════════════════════════════════════════════════════════════════
