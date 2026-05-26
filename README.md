@@ -19,7 +19,7 @@ This project demonstrates applied competencies in:
 |--------|------------|
 | Amanda Kistilensa | 26029102 |
 | Aryan Goel | 26040826 |
-| Silvia | 25969039 |
+| Silvia |  |
 | Kiemas Zn | 26054407 |
 
 ---
